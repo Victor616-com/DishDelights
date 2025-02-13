@@ -1,0 +1,17 @@
+.DDrecepies {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.DDrecepiesWrapper {
+    display: flex;
+    flex-direction: row;
+    margin-left: var(--padding-left);
+    margin-right: var(--padding-right);
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}

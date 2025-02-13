@@ -1,0 +1,314 @@
+{
+    "recipes": [
+      {
+        "title": "Spaghetti Carbonara",
+        "ingredients": [
+          {"item": "Spaghetti", "quantity": "200g"},
+          {"item": "Pancetta", "quantity": "100g"},
+          {"item": "Eggs", "quantity": "2"},
+          {"item": "Parmesan Cheese", "quantity": "50g"},
+          {"item": "Garlic", "quantity": "2 cloves"},
+          {"item": "Olive Oil", "quantity": "1 tbsp"},
+          {"item": "Salt", "quantity": "to taste"},
+          {"item": "Black Pepper", "quantity": "to taste"}
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "In a pan, heat olive oil and cook pancetta until crispy.",
+          "Add garlic and cook for 1 minute.",
+          "In a bowl, beat the eggs and mix with grated Parmesan cheese.",
+          "Drain the spaghetti and add to the pan with pancetta and garlic.",
+          "Remove the pan from heat and quickly mix in the egg and cheese mixture.",
+          "Season with salt and black pepper.",
+          "Serve immediately with extra Parmesan cheese on top."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": "2",
+        "nutritional_information": {
+          "calories": "400 kcal",
+          "protein": "20g",
+          "carbohydrates": "50g",
+          "fat": "15g"
+        },
+        "difficulty_level": "Easy",
+        "notes": "Ensure the pan is removed from heat before adding the egg mixture to avoid scrambling the eggs.",
+        "image_url": "https://images.unsplash.com/photo-1612874742237-6526221588e3?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Chicken Tikka Masala",
+        "ingredients": [
+          {"item": "Chicken Breast", "quantity": "500g"},
+          {"item": "Yogurt", "quantity": "200g"},
+          {"item": "Tomato Puree", "quantity": "100g"},
+          {"item": "Onion", "quantity": "1"},
+          {"item": "Garlic", "quantity": "3 cloves"},
+          {"item": "Ginger", "quantity": "1 inch"},
+          {"item": "Garam Masala", "quantity": "1 tbsp"},
+          {"item": "Turmeric", "quantity": "1 tsp"},
+          {"item": "Cumin", "quantity": "1 tsp"},
+          {"item": "Paprika", "quantity": "1 tsp"},
+          {"item": "Chili Powder", "quantity": "1 tsp"},
+          {"item": "Heavy Cream", "quantity": "100ml"},
+          {"item": "Oil", "quantity": "2 tbsp"},
+          {"item": "Salt", "quantity": "to taste"}
+        ],
+        "instructions": [
+          "Cut chicken breast into bite-sized pieces.",
+          "In a bowl, mix yogurt, garlic, ginger, garam masala, turmeric, cumin, paprika, chili powder, and salt. Marinate the chicken in this mixture for at least 1 hour.",
+          "In a pan, heat oil and cook finely chopped onion until golden brown.",
+          "Add marinated chicken and cook until fully cooked.",
+          "Add tomato puree and simmer for 10 minutes.",
+          "Stir in heavy cream and cook for another 5 minutes.",
+          "Serve hot with rice or naan."
+        ],
+        "preparation_time": "20 minutes",
+        "cooking_time": "30 minutes",
+        "total_time": "50 minutes",
+        "servings": "4",
+        "nutritional_information": {
+          "calories": "600 kcal",
+          "protein": "35g",
+          "carbohydrates": "20g",
+          "fat": "40g"
+        },
+        "difficulty_level": "Medium",
+        "notes": "Marinate the chicken overnight for better flavor.",
+        "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?q=80&w=3084&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Vegetable Stir-Fry",
+        "ingredients": [
+            {"item": "Bell Peppers", "quantity": "2"},
+            {"item": "Broccoli", "quantity": "1 head"},
+            {"item": "Carrot", "quantity": "1"},
+            {"item": "Snow Peas", "quantity": "100g"},
+            {"item": "Soy Sauce", "quantity": "3 tbsp"},
+            {"item": "Garlic", "quantity": "2 cloves"},
+            {"item": "Ginger", "quantity": "1 inch"},
+            {"item": "Olive Oil", "quantity": "2 tbsp"},
+            {"item": "Sesame Seeds", "quantity": "1 tbsp"},
+            {"item": "Salt", "quantity": "to taste"},
+            {"item": "Black Pepper", "quantity": "to taste"}
+        ],
+        "instructions": [
+            "Cut the vegetables into bite-sized pieces.",
+            "Heat olive oil in a large pan or wok.",
+            "Add garlic and ginger and cook for 1 minute.",
+            "Add the vegetables and stir-fry for 5-7 minutes until tender but still crisp.",
+            "Add soy sauce, salt, and black pepper. Stir to combine.",
+            "Sprinkle with sesame seeds before serving.",
+            "Serve hot with rice or noodles."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "10 minutes",
+        "total_time": "25 minutes",
+        "servings": "4",
+        "nutritional_information": {
+            "calories": "150 kcal",
+            "protein": "5g",
+            "carbohydrates": "20g",
+            "fat": "7g"
+        },
+        "difficulty_level": "Easy",
+        "notes": "You can add any vegetables you like to this stir-fry.",
+        "image_url": "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Chocolate Cookies",
+        "ingredients": [
+            {"item": "Butter", "quantity": "100g"},
+            {"item": "Brown Sugar", "quantity": "100g"},
+            {"item": "Granulated Sugar", "quantity": "50g"},
+            {"item": "Eggs", "quantity": "1"},
+            {"item": "Vanilla Extract", "quantity": "1 tsp"},
+            {"item": "All-Purpose Flour", "quantity": "150g"},
+            {"item": "Baking Soda", "quantity": "1 tsp"},
+            {"item": "Salt", "quantity": "1/2 tsp"},
+            {"item": "Chocolate Chips", "quantity": "150g"}
+        ],
+        "instructions": [
+            "Preheat the oven to 180°C (350°F).",
+            "In a large bowl, cream together the butter and sugars until light and fluffy.",
+            "Beat in the egg and vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt.",
+            "Gradually add the dry ingredients to the wet ingredients and mix until combined.",
+            "Stir in the chocolate chips.",
+            "Drop spoonfuls of dough onto a baking sheet.",
+            "Bake for 10-12 minutes, or until the edges are golden brown.",
+            "Let cool on the baking sheet for a few minutes before transferring to a wire rack."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "12 minutes",
+        "total_time": "27 minutes",
+        "servings": "24",
+        "nutritional_information": {
+            "calories": "150 kcal per cookie",
+            "protein": "2g",
+            "carbohydrates": "20g",
+            "fat": "7g"
+        },
+        "difficulty_level": "Easy",
+        "notes": "Use a mix of milk and dark chocolate chips for extra flavor.",
+        "image_url": "https://images.unsplash.com/photo-1584847801423-852691e41bc7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Beef Stroganoff",
+        "ingredients": [
+          {"item": "Beef Sirloin", "quantity": "500g"},
+          {"item": "Mushrooms", "quantity": "200g"},
+          {"item": "Onion", "quantity": "1"},
+          {"item": "Garlic", "quantity": "2 cloves"},
+          {"item": "Butter", "quantity": "2 tbsp"},
+          {"item": "Sour Cream", "quantity": "200ml"},
+          {"item": "Beef Broth", "quantity": "1 cup"},
+          {"item": "Dijon Mustard", "quantity": "1 tbsp"},
+          {"item": "Salt", "quantity": "to taste"},
+          {"item": "Black Pepper", "quantity": "to taste"}
+        ],
+        "instructions": [
+          "Slice the beef sirloin into thin strips.",
+          "In a pan, melt butter and sauté onions and garlic until translucent.",
+          "Add mushrooms and cook until they release their juices.",
+          "Add beef strips and cook until browned.",
+          "Pour in beef broth and simmer for 10 minutes.",
+          "Stir in sour cream and mustard. Cook for another 5 minutes.",
+          "Season with salt and black pepper.",
+          "Serve hot over egg noodles or rice."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "25 minutes",
+        "total_time": "40 minutes",
+        "servings": "4",
+        "nutritional_information": {
+          "calories": "450 kcal",
+          "protein": "30g",
+          "carbohydrates": "10g",
+          "fat": "30g"
+        },
+        "difficulty_level": "Medium",
+        "notes": "You can substitute Greek yogurt for sour cream for a lighter version.",
+        "image_url": "https://images.unsplash.com/photo-1548869206-93b036288d7e?q=80&w=3095&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Vegetarian Chili",
+        "ingredients": [
+          {"item": "Kidney Beans", "quantity": "400g"},
+          {"item": "Black Beans", "quantity": "400g"},
+          {"item": "Corn", "quantity": "1 cup"},
+          {"item": "Bell Peppers", "quantity": "2"},
+          {"item": "Onion", "quantity": "1"},
+          {"item": "Garlic", "quantity": "3 cloves"},
+          {"item": "Tomato Paste", "quantity": "2 tbsp"},
+          {"item": "Diced Tomatoes", "quantity": "400g"},
+          {"item": "Chili Powder", "quantity": "2 tbsp"},
+          {"item": "Cumin", "quantity": "1 tbsp"},
+          {"item": "Paprika", "quantity": "1 tsp"},
+          {"item": "Olive Oil", "quantity": "2 tbsp"},
+          {"item": "Salt", "quantity": "to taste"},
+          {"item": "Black Pepper", "quantity": "to taste"}
+        ],
+        "instructions": [
+          "Heat olive oil in a large pot.",
+          "Sauté chopped onion and garlic until translucent.",
+          "Add diced bell peppers and cook for 5 minutes.",
+          "Stir in tomato paste, chili powder, cumin, and paprika.",
+          "Add diced tomatoes, kidney beans, black beans, and corn.",
+          "Simmer for 30 minutes, stirring occasionally.",
+          "Season with salt and black pepper.",
+          "Serve hot with a garnish of fresh cilantro and a squeeze of lime."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "30 minutes",
+        "total_time": "45 minutes",
+        "servings": "6",
+        "nutritional_information": {
+          "calories": "250 kcal",
+          "protein": "12g",
+          "carbohydrates": "40g",
+          "fat": "8g"
+        },
+        "difficulty_level": "Easy",
+        "notes": "You can add your favorite vegetables like zucchini or carrots for more variety.",
+        "image_url": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?q=80&w=2736&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Shrimp Scampi",
+        "ingredients": [
+            {"item": "Shrimp", "quantity": "500g"},
+            {"item": "Garlic", "quantity": "4 cloves"},
+            {"item": "Butter", "quantity": "3 tbsp"},
+            {"item": "Olive Oil", "quantity": "2 tbsp"},
+            {"item": "White Wine", "quantity": "1/2 cup"},
+            {"item": "Lemon Juice", "quantity": "2 tbsp"},
+            {"item": "Parsley", "quantity": "1/4 cup"},
+            {"item": "Red Pepper Flakes", "quantity": "1 tsp"},
+            {"item": "Salt", "quantity": "to taste"},
+            {"item": "Black Pepper", "quantity": "to taste"},
+            {"item": "Pasta", "quantity": "250g"}
+        ],
+        "instructions": [
+            "Cook pasta according to package instructions.",
+            "In a large pan, heat olive oil and butter over medium heat.",
+            "Add minced garlic and red pepper flakes. Cook for 1 minute.",
+            "Add shrimp and cook until pink and opaque, about 3-4 minutes.",
+            "Pour in white wine and lemon juice. Simmer for 2-3 minutes.",
+            "Stir in chopped parsley. Season with salt and black pepper.",
+            "Toss cooked pasta in the sauce. Serve immediately."
+        ],
+        "preparation_time": "10 minutes",
+        "cooking_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": "4",
+        "nutritional_information": {
+            "calories": "400 kcal",
+            "protein": "30g",
+            "carbohydrates": "45g",
+            "fat": "12g"
+        },
+        "difficulty_level": "Medium",
+        "notes": "For a richer flavor, use a combination of chicken broth and white wine.",
+        "image_url": "https://images.unsplash.com/photo-1625943553852-781c6dd46faa?q=80&w=2796&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Blueberry Muffins",
+        "ingredients": [
+            {"item": "All-Purpose Flour", "quantity": "250g"},
+            {"item": "Baking Powder", "quantity": "2 tsp"},
+            {"item": "Salt", "quantity": "1/2 tsp"},
+            {"item": "Butter", "quantity": "100g"},
+            {"item": "Sugar", "quantity": "150g"},
+            {"item": "Eggs", "quantity": "2"},
+            {"item": "Vanilla Extract", "quantity": "1 tsp"},
+            {"item": "Milk", "quantity": "120ml"},
+            {"item": "Blueberries", "quantity": "200g"}
+        ],
+        "instructions": [
+            "Preheat the oven to 180°C (350°F).",
+            "In a bowl, whisk together flour, baking powder, and salt.",
+            "In another bowl, cream together butter and sugar until light and fluffy.",
+            "Beat in eggs one at a time, then stir in vanilla extract.",
+            "Gradually add the dry ingredients to the wet ingredients, alternating with milk.",
+            "Fold in blueberries gently.",
+            "Spoon the batter into muffin cups, filling each about 2/3 full.",
+            "Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Let cool in the pan for 10 minutes before transferring to a wire rack."
+        ],
+        "preparation_time": "15 minutes",
+        "cooking_time": "25 minutes",
+        "total_time": "40 minutes",
+        "servings": "12",
+        "nutritional_information": {
+            "calories": "200 kcal per muffin",
+            "protein": "3g",
+            "carbohydrates": "30g",
+            "fat": "8g"
+        },
+        "difficulty_level": "Easy",
+        "notes": "Add a sprinkle of sugar on top before baking for a crunchy topping.",
+        "image_url": "https://images.unsplash.com/photo-1613119720614-61ad05237b9c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }
+  

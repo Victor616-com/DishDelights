@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://use.typekit.net/rdp0ekc.css");
+
+:root {
+  --padding-left: 90px;
+  --padding-right: 90px;
+  --dark-grey: #696969;
+  --purple: #A35C7A;
+  --black: #212121;
+  --bg: #faf7ee;
+  --white: #fffdf7;
+  --green: #578E7E;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--white);
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", serif;
+  font-style: normal;
+}
+a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color from parent */
+}
+
+
+
+
+@media (max-width: 530px) {
+  :root {
+    --padding-left: 30px;
+    --padding-right: 30px;
+    
+  }
+}
+
+

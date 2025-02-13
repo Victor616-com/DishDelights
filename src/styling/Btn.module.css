@@ -1,0 +1,19 @@
+.btnPurple {
+    all: unset;
+    background-color: var(--purple);
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btnBlack {
+    all: unset;
+    background-color: var(--black);
+    color: var(--white);
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+}
