@@ -1,0 +1,61 @@
+.personalRecipeBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+    background-color: var(--purple);
+    border-radius: 15px;
+    gap: 10px;
+    max-width: 250px;
+    cursor: pointer;
+}
+.personalRecipeBox h2 {
+    font-weight: 500;
+    font-size: 22px;
+}
+.personalRecipeBox p {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--white);
+    word-wrap: break-word;
+}
+
+.personalRecipeBox input {
+    all: unset;
+    width: 230px;
+    background-color: var(--black);
+    border: 2px solid var(--purple);
+    padding: 10px;
+    border-radius: 10px;
+    color: var(--white);
+    font-size: 16px;
+}
+
+textarea {
+    width: 230px;
+    background-color: var(--black);
+    border: 2px solid var(--purple);
+    padding: 10px;
+    border-radius: 10px;
+    color: var(--white);
+    resize: vertical;
+    font-size: 16px;
+}
+button {
+    all: unset;
+}
+.editBtnWrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.deleteBtn {
+    background-color: var(--black);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.deleteBtn svg {
+    width: 30px;
+    color: var(--white);
+}

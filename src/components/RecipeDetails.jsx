@@ -19,7 +19,7 @@ const RecipeDetails = () => {
     <div className={styles.detailBoxWrapper}>
       <div className={styles.detailBox}>
         <div className={styles.title} style={{ backgroundImage: `url(${recipe.image_url})` }}>
-          <Link to={`/DishDelightsRecipes`}>
+          <Link to={`/DishDelightsRecipes/`}>
             <div className={styles.xBtn}><X /></div>
           </Link>
           <h1>{recipe.title}</h1>

@@ -3,6 +3,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     
 }
 .DDrecepiesWrapper {
@@ -16,4 +17,21 @@
     justify-content: center;
     margin-bottom: 50px;
     margin-top: 50px;
+}
+.searchBar {
+    
+    width: 80%;
+    max-width: 400px;
+}
+.searchInput {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 2px solid var(--purple);
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-top: 30px;
+
 }

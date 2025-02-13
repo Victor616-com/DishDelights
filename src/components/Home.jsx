@@ -2,6 +2,7 @@ import styles from '../styling/Home.module.css';
 import foodImg from '../assets/images/burger2.png'
 import PurpleBtn from './buttons/PurpleBtn';
 import BlackBtn from './buttons/BlackBtn';
+import { Link } from 'react-router-dom';
 
 
 const Home = () => {
@@ -18,8 +19,8 @@ const Home = () => {
 
                     </div>
                 <div className={styles.btnWrapper}>
-                    <PurpleBtn >See your recepies</PurpleBtn>
-                    <BlackBtn>See our recepies</BlackBtn>
+                    <Link to="/PersonalFavoriteRecipes"><PurpleBtn >See your recepies</PurpleBtn></Link>
+                    <Link to="/DishDelightsRecipes"><BlackBtn>See our recepies</BlackBtn></Link>
                 </div>
                 
             </div>
