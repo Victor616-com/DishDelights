@@ -8,7 +8,7 @@ const RecipeBox = ({ recipe, index }) => {
         <Link to={`/DishDelightsRecipes/${index}`} className={styles.boxLink}>
 
             <div className={styles.box} style={{ backgroundImage: `url(${recipe.image_url})`}} >
-            <h2>{recipe.title}</h2>
+                <h2>{recipe.title}</h2>
                 <div className={styles.paragraphs}>
                     <div className={styles.tag}>
                         <ClockIcon />
