@@ -37,22 +37,22 @@ const Navbar = () => {
             </div>
             <div className={`${styles.navLinks} ${isOpen ? styles.open : ''}`} ref={navRef}>
                 <div className={styles.navLink}>
-                    <NavLink to="/DishDelightsRecipes" className={({ isActive }) => isActive ? styles.active : ''}>
+                    <NavLink to="/DishDelightsRecipes" onClick={toggleMenu} className={({ isActive }) => isActive ? styles.active : ''}>
                         DishDelights Recipes
                     </NavLink>
                 </div>
                 <div className={styles.navLink}>
-                    <NavLink to="/PersonalFavoriteRecipes" className={({ isActive }) => isActive ? styles.active : ''}>
+                    <NavLink to="/PersonalFavoriteRecipes" onClick={toggleMenu} className={({ isActive }) => isActive ? styles.active : ''}>
                         Personal favorite recipes
                     </NavLink>
                 </div>
                 <div className={styles.navLink}>
-                    <NavLink to="/About" className={({ isActive }) => isActive ? styles.active : ''}>
+                    <NavLink to="/About" onClick={toggleMenu} className={({ isActive }) => isActive ? styles.active : ''}>
                         About
                     </NavLink>
                 </div>
                 <div className={styles.navLink}>
-                    <NavLink to="/Contact" className={({ isActive }) => isActive ? styles.active : ''}>
+                    <NavLink to="/Contact" onClick={toggleMenu} className={({ isActive }) => isActive ? styles.active : ''}>
                         Contact
                     </NavLink>
                 </div>
